@@ -1,0 +1,30 @@
+{
+    "name": "phantom",
+    "version": "0.7.2",
+    "description": "PhantoJS wrapper for Node, no depending on weak.js",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/RubyLouvre/phantom.git"
+    },
+    "dependencies": {
+        "shoe": "~0.0.10",
+        "win-spawn": "~2.0.0",
+        "traverse": "~0.6.3",
+        
+        "dnode-protocol": "~0.2.2",
+        "jsonify": "~0.0.0"
+    },
+    "keywords": [
+        "phantom"
+    ],
+    "author": "RubyLouvre",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/RubyLouvre/phantom/issues"
+    },
+    "homepage": "https://github.com/RubyLouvre/phantom"
+}
