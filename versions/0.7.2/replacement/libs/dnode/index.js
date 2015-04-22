@@ -1,6 +1,6 @@
 //https://github.com/substack/dnode
-var dnode = require('./dnode');
-var parseArgs = require('./parse_args');
+var dnode = require('./lib/dnode');
+var parseArgs = require('./lib/parse_args');
 var net = require('net');
 var util = require('util');
 var weak
